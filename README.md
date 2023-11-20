@@ -1,5 +1,5 @@
 # Myapps
-Apps ready to use for my class
+Apps ready to use for a class
 
 |ID|Keywords|Description|Coding page|
 |--|--|--|--|
