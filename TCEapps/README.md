@@ -6,7 +6,7 @@ This GitHub page is designed for students and individuals interested in delving 
 
 Note that this page started from December 6, 2023, and will be updated continuously.
 
-**What's offered here:**
+**🔋What's offered here:**
 
 + **Interactive Learning Tools:** Python scripts and notebooks designed to make learning English intuitive and fun. From pronunciation guides to grammar quizzes, my apps cater to various aspects of the English language.
 + **Self-Paced Education:** Whether you're a beginner or looking to refine your advanced skills, these applications are structured to allow self-paced learning, giving you the control to learn at your own comfort.
@@ -19,7 +19,7 @@ Note that this page started from December 6, 2023, and will be updated continuou
 You may leave your feedback here: 📭 [feedback or inquiries](https://share.hsforms.com/1Av0hl41zRH-ldBftgLjM4Qqhro2)
 
 
-## Useful apps list
+## 🔋Useful apps list
 
 ||Keywords|Description|Link|Date updated|
 |---|---|---|---|---|
