@@ -1,8 +1,8 @@
-# Useful Apps for prospective teachers (since Dec. 2023)
+# 🌱 Useful Apps for prospective teachers (since Dec. 2023)
 
 To be updated
 
-## Useful apps
+## Useful apps list
 
 ||Keywords|Description|Link|Date updated|
 |---|---|---|---|---|
