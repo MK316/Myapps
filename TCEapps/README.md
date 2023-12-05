@@ -6,5 +6,5 @@ To be updated
 
 ||Keywords|Description|Link|
 |---|---|---|---|
-|1|Stress, intonation|Learn stress with sound, visible intonation| [code](https://github.com/MK316/Myapps/blob/main/TCEapps/stress_intonation.ipynb)]
+|1|Stress, intonation|Learn stress with sound, visible intonation| [code page](https://github.com/MK316/Myapps/blob/main/TCEapps/stress_intonation.ipynb)|
 
