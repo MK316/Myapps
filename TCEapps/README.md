@@ -14,7 +14,7 @@ Community and Support: Collaborate, share insights, and seek guidance from a com
 
 **_Note_:** Whether you're starting your journey as an English teacher or seeking to enhance your language skills, this platform is a step towards making learning more dynamic and technology-driven. Dive into our applications, contribute to their development, or simply enjoy the learning experience!
 
-You may leave your feedback here: 📭 
+You may leave your feedback here: 📭 [feedback or inquiries](https://share.hsforms.com/1Av0hl41zRH-ldBftgLjM4Qqhro2)
 
 
 ## Useful apps list
