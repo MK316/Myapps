@@ -10,4 +10,4 @@ Apps ready to use for a class
 
 |ID|Keywords|Description|Coding page|
 |--|--|--|--|
-||Calculator| Calculator app and learn how to day the calcuation process in English|[Codes](https://github.com/MK316/Myapps/blob/main/CalculatorAPP.ipynb)|
+||Calculator| Calculator app and learn how to say the calcuation process in English|[Codes](https://github.com/MK316/Myapps/blob/main/CalculatorAPP.ipynb)|
