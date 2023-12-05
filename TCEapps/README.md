@@ -1,4 +1,4 @@
-# Teacher Certificate Exam APPs (since Dec. 2023)
+# Useful Apps for prospective teachers (since Dec. 2023)
 
 To be updated
 
