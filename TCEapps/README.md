@@ -4,7 +4,7 @@ Welcome to my digital classroom for English language learning apps!
 
 This GitHub page is designed for students and individuals interested in delving into the intricacies of the English language using Python programming. By combining the fields of language education and technology, these tailored applications provide an interesting and hands-on way to enhance your English learning experience.
 
-Note that this page started from December 6, 2023, and will be updated continuously.
+_Note that this page started from December 6, 2023, and will be updated continuously._
 
 **🔋What's offered here:**
 
@@ -16,7 +16,7 @@ Note that this page started from December 6, 2023, and will be updated continuou
 
 **_Note_:** Whether you're starting your journey as an English teacher or seeking to enhance your language skills, this platform is a step towards making learning more dynamic and technology-driven. Dive into our applications, contribute to their development, or simply enjoy the learning experience!
 
-You may leave your feedback here: 📭 [feedback or inquiries](https://share.hsforms.com/1Av0hl41zRH-ldBftgLjM4Qqhro2)
+_You may leave your feedback here:_ 📭 [feedback or inquiries](https://share.hsforms.com/1Av0hl41zRH-ldBftgLjM4Qqhro2)
 
 
 ## 🔋Useful apps list
