@@ -23,5 +23,5 @@ _You may leave your feedback here:_ 📭 [feedback or inquiries](https://share.h
 
 ||Keywords|Description|Link|Date updated|
 |---|---|---|---|---|
-|1|Stress, intonation|Learn stress with sound (e.g., 160 words from Chatper 7), visible intonation: you can also download the speech files| [code page](https://github.com/MK316/Myapps/blob/main/TCEapps/stress_intonation.ipynb)| Dec.6, 2023|
+|1|Stress, intonation|Learn stress with sound (e.g., 160 words from AEP Chatper 7), visible intonation: you can also download the speech files| [code page](https://github.com/MK316/Myapps/blob/main/TCEapps/stress_intonation.ipynb)| Dec.6, 2023|
 
