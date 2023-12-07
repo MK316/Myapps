@@ -12,8 +12,8 @@ Apps ready to use for a class
 |--|--|--|--|
 ||Calculator| Calculator app and learn how to say the calcuation process in English|[Codes](https://github.com/MK316/Myapps/blob/main/CalculatorAPP.ipynb)|
 
-## Vocabulary
+## Learning English language tools
 |ID|Keywords|Description|Coding page|
 |--|--|--|--|
-|2학년|📙 Audio generation| Upload your word list and download speech files for listening|[Myword list](https://github.com/MK316/Myapps/blob/main/WordsAndSentences.ipynb)|
+|2학년|📙 Vocabulary study| Upload your word list and download speech files for listening|[Myword list](https://github.com/MK316/Myapps/blob/main/WordsAndSentences.ipynb)|
 ||📙 Intonation| Pitch variation over a sentence is called intonation. You can generate visible intonation here.|[intonation](https://github.com/MK316/Myapps/blob/main/Intonation.ipynb)|
