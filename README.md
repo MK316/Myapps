@@ -15,5 +15,6 @@ Apps ready to use for a class
 ## Learning English language tools
 |ID|Keywords|Description|Coding page|
 |--|--|--|--|
-|2학년|📙 Vocabulary study| Upload your word list and download speech files for listening|[Myword list](https://github.com/MK316/Myapps/blob/main/WordsAndSentences.ipynb)|
+|2nd|📙 Vocabulary study| Upload your word list and download speech files for listening|[Myword list](https://github.com/MK316/Myapps/blob/main/WordsAndSentences.ipynb)|
 ||📙 Intonation| Pitch variation over a sentence is called intonation. You can generate visible intonation here.|[intonation](https://github.com/MK316/Myapps/blob/main/Intonation.ipynb)|
+|3rd| Stress quiz | Test yourself with the 160 words from Ch.07 |[codes](https://github.com/MK316/Myapps/blob/main/StressQuiz.ipynb)|
