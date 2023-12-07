@@ -15,4 +15,4 @@ Apps ready to use for a class
 ## Vocabulary
 |ID|Keywords|Description|Coding page|
 |--|--|--|--|
-||[Myword list](https://github.com/MK316/Myapps/blob/main/WordsAndSentences.ipynb)| Upload your word list and download speech files for listening||
+|2학년|📙 [Myword list](https://github.com/MK316/Myapps/blob/main/WordsAndSentences.ipynb)| Upload your word list and download speech files for listening||
