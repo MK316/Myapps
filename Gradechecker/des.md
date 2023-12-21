@@ -15,6 +15,7 @@ For instance, your csv file should look like this:
 The output displays:
 
 |Name|Mary|
+|--|--|
 |ID|2023212|
 |...|...|
 |Grade|B+|
