@@ -12,7 +12,7 @@ For instance, your csv file should look like this:
 |--|--|--|--|--|--|
 |Mary|20232123|...|ZB234k|...|B+|
 
-The output displays:
+Using a live app, your student will type PW. Then the output displays:
 
 |Name|Mary|
 |--|--|
