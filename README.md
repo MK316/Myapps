@@ -24,4 +24,4 @@ Apps ready to use for a class
 
 |ID|Keywords|Description|Coding page|
 |--|--|--|--|
-|01|🌿Gradechecker|This app generates a live link, where individual students can check their grade details, using gradio|[code](https://github.com/MK316/Myapps/blob/main/Gradechecker.ipynb)|
+|01|🌿Gradechecker|This app generates a live link, where individual students can check their grade details, using gradio. [Details](https://github.com/MK316/Myapps/blob/main/Gradechecker/des.md)|[code](https://github.com/MK316/Myapps/blob/main/Gradechecker.ipynb)|
