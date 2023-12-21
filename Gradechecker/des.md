@@ -22,4 +22,4 @@ Using a live app, your student will type PW. Then the output displays:
 
 **Key notes:** 
 1) Students must know their passcode.
-2) 2) The application uses Gradio to create a live link, which the administrator informs students about within a specific time frame. (This link remains active for 72 hours.)
+2) The application uses Gradio to create a live link, which the administrator informs students about within a specific time frame. (This link remains active for 72 hours.)
