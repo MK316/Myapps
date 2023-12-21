@@ -19,3 +19,9 @@ Apps ready to use for a class
 ||📙 Intonation| Pitch variation over a sentence is called intonation. You can generate visible intonation here.|[intonation](https://github.com/MK316/Myapps/blob/main/Intonation.ipynb)|
 |3rd| Stress quiz | Test yourself with the 160 words from Ch.07 |[codes](https://github.com/MK316/Myapps/blob/main/StressQuiz.ipynb), [Wordlist](https://docs.google.com/spreadsheets/d/1hNBvO5RVvnIO2G_gtQyzY2TBSYvxKqau3uK3zcXKSBY/edit?usp=sharing)|
 |3rd | Stress & intonation | Stress practice with audio, download the audio|[stress and intonation](https://github.com/MK316/Myapps/blob/main/TCEapps/stress_intonation.ipynb)|
+
+## Class management tools
+
+|ID|Keywords|Description|Coding page|
+|--|--|--|--|
+|01|🌿Gradechecker|This app generates a live link, where individual students can check their grade details, using gradio|[code](https://github.com/MK316/Myapps/blob/main/Gradechecker.ipynb)|
