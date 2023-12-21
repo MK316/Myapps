@@ -1,4 +1,4 @@
-# Grade detail checker
+# 🌱 Grade detail checker
 
 - This application allows users to upload a CSV file with academic records or read it from their Google Drive. 
 - It features a column named "PW," which serves as a passcode, enabling individual students to access their detailed academic records on their devices. 
