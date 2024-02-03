@@ -3,7 +3,7 @@
 ## Oxford Learner Vocabulary 5000
 
 + [Official link: Oxford Learners' Dictionaries](https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000)
-+ [Word list](#word-list)
++ 📌 [Go to the Word list: A1~5K](#word-list)
   
 ![](https://github.com/MK316/Myapps/blob/main/mrkim21apps/data/oxford5k.png)
 
