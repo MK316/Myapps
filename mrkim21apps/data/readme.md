@@ -2,13 +2,13 @@
 
 ## Oxford Learner Vocabulary 5000
 
-+ [Official link](https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000)
++ [Official link: Oxford Learners' Dictionaries](https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000)
   
 ![](https://github.com/MK316/Myapps/blob/main/mrkim21apps/data/oxford5k.png)
 
 ### By CEFR levels
 
-According to the official website description:
+According to [the official website description](https://www.oxfordlearnersdictionaries.com/about/wordlists/cefr):
 
 + CEFR stands for the ‘Common European Framework of Reference’ for languages, which is a description of the language abilities of students at different levels of learning. The CEFR can be used to compare standards in language learning and create teaching programmes.
 
