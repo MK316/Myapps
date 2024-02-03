@@ -31,4 +31,4 @@ According to [the official website description](https://www.oxfordlearnersdictio
   + [B1 list](https://github.com/MK316/Myapps/blob/main/mrkim21apps/data/OF3KB1.csv)
   + [B2 list](https://github.com/MK316/Myapps/blob/main/mrkim21apps/data/OF3KB2.csv)
   + [C1 list](https://github.com/MK316/Myapps/blob/main/mrkim21apps/data/OF3KC1.csv)
-  + [5K list:](https://github.com/MK316/Myapps/blob/main/mrkim21apps/data/OF5K.csv) this 5K list provides additional 2000 words to the original 3000 list. Levels include B2 and C1. 
+  + [5K list:](https://github.com/MK316/Myapps/blob/main/mrkim21apps/data/OF5K.csv) This 5K list provides additional 2000 words to the original 3000 list. Levels include B2 and C1. 
