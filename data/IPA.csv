@@ -16,9 +16,9 @@ z,voiced,alveolar,central,oral,fricative
 tʃ,voiceless,palato-alveolar,central,oral,affricate
 dʒ,voiced,palato-alveolar,central,oral,affricate
 h,voiceless,glottal,central,oral,fricative
-m,voiced,bilabial,NA,nasal,stop
-n,voiced,alveolar,NA,nasal,stop
-ŋ,voiced,velar,NA,nasal,stop
+m,voiced,bilabial,not applicable,nasal,stop
+n,voiced,alveolar,not applicable,nasal,stop
+ŋ,voiced,velar,not applicable,nasal,stop
 ɹ,voiced,alveolar,central,oral,approximant
 l,voiced,alveolar,lateral,oral,approximant
 j,voiced,palatal,central,oral,approximant
