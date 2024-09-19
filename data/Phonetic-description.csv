@@ -1,0 +1,38 @@
+﻿Segment,IPA,Full_description,Casual_description
+Consonant,p,voiceless bilabial central oral stop,voiceless bilabial stop
+Consonant,b,voiced bilabial central oral stop,voiced bilabial stop
+Consonant,t,voiceless alveolar central oral stop,voiceless alveolar stop
+Consonant,d,voiced alveolar central oral stop,voiced alveolar stop
+Consonant,k,voiceless velar central oral stop,voiceless velar stop
+Consonant,g,voiced velar central oral stop,voiced velar stop
+Consonant,f,voiceless labio-dental central oral fricative,voiceless labio-dental fricative
+Consonant,v,voiced labio-dental central oral fricative,voiced labio-dental fricative
+Consonant,θ,voiceless dental central oral fricative,voiceless dental fricative
+Consonant,ð,voiced dental central oral fricative,voiced dental fricative
+Consonant,s,voiceless alveolar central oral fricative,voiceless alveolar fricative
+Consonant,z,voiced alveolar central oral fricative,voiced alveolar fricative
+Consonant,ʃ,voiceless palato-alveolar central oral fricative,voiceless palato-alveolar fricative
+Consonant,ʒ,voiced palato-alveolar central oral fricative,voiced palato-alveolar fricative
+Consonant,tʃ,voiceless palato-alveolar central oral affricate,voiceless palato-alveolar affricate
+Consonant,dʒ,voiced palato-alveolar central oral affricate,voiced palato-alveolar affricate
+Consonant,h,voiceless glottal central oral fricative,voiceless glottal fricative
+Consonant,m,voiced bilabial nasal stop,voiced bilabial nasal
+Consonant,n,voiced alveolar nasal stop,voiced alveolar nasal
+Consonant,ŋ,voiced velar nasal stop,voiced velar nasal
+Consonant,ɹ,voiced alveolar central oral approximant,voiced alveolar approximant
+Consonant,l,voiced alveolar lateral oral approximant,voiced alveolar lateral approximant
+Consonant,j,voiced palatal central oral approximant,voiced palatal approximant
+Consonant,w,voiced labio-velar central oral approximant,voiced labio-velar approximant
+Consonant,ɾ,voiced alveolar central oral tap,voiced alveolar tap
+Consonant,ʔ,glottal stop,glottal stop
+Consonant,ɱ,voiced labio-dental nasal stop,labio-dental nasal
+Vowel,i,high front unrounded tense,high front tense
+Vowel,ɪ,high front unrounded lax,high front lax
+Vowel,ɛ,mid front unrounded lax,mid front
+Vowel,æ,low front unrounded lax,low front
+Vowel,u,high back rounded tense,high back rounded lax
+Vowel,ʊ,high back rounded lax,high back rounded lax
+Vowel,ɔ,mid back rounded tense,mid back rounded
+Vowel,ɑ,low back unrounded tense,low back unrounded
+Vowel,ʌ,mid back unrounded lax,mid back unrounded lax
+Vowel,ə,mid central unrounded lax,mid central unrounded
